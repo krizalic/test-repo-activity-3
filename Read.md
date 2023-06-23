@@ -4,7 +4,7 @@ Please fix this conflict, thank you.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Conflict resolved on line row 1 and 3
 
 ## Getting Started
 
