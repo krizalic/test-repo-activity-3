@@ -1,6 +1,6 @@
-How to Create Conflict using Github
+Bakit walang lumalabas na conflict?
 
-Please fix this conflict, thank you.
+kasi hindi ka nag babasa ng documentation
 
 ## Description
 
