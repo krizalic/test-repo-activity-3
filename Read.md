@@ -1,6 +1,6 @@
-Bakit walang lumalabas na conflict?
+How to Create Conflict  and to Resolved Issues in GitHub
 
-kasi hindi ka nag babasa ng documentation
+Please fix this conflict, thank you.
 
 ## Description
 
