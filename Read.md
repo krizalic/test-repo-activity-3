@@ -1,4 +1,4 @@
-How to Create Conflict  and to Resolved Issues in GitHub
+please fix this conflict on this row, thank you
 
 Please fix this conflict, thank you.
 
