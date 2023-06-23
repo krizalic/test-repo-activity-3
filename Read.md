@@ -35,6 +35,8 @@ command to run if program contains helper info
 
 ## Authors
 
+Krizalic
+Ritz HexeCalibre
 Contributors names and contact info
 
 ex. Dominique Pizzie  
