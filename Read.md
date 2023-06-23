@@ -1,4 +1,4 @@
-please fix this conflict on this row, thank you
+please fix this conflict on this row, thank you very much
 
 Please fix this conflict, thank you.
 
