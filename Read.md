@@ -1,10 +1,10 @@
-How to Create Conflict  and to Resolved Issues In GitHub Activity
+please fix this conflict on this row, thank you very much
 
 Please fix this conflict, thank you.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Conflict resolved on line row 1 and 3
 
 ## Getting Started
 
