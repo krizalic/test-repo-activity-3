@@ -1,4 +1,4 @@
-How to Create Conflict  and to Resolved Issues in GitHub
+How to Create Conflict  and to Resolved Issues In GitHub Activity
 
 Please fix this conflict, thank you.
 
