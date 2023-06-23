@@ -1,6 +1,6 @@
-# How to Create Conflict using Github
+How to Create Conflict using Github
 
-Simple overview of use/purpose.
+Please fix this conflict, thank you.
 
 ## Description
 
